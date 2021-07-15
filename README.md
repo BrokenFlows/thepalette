@@ -1,6 +1,6 @@
 # thepalette 🎨
 
-A strap on case for [artseyio/thepaintbrush](https://github.com/artseyio/thepaintbrush).
+A strap-on case for [artseyio/thepaintbrush](https://github.com/artseyio/thepaintbrush).
 
 ## Strapping
 The gaps allow for a material less than 4 mm thick to be used for a strap.
